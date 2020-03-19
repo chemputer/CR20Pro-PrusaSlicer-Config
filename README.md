@@ -2,10 +2,10 @@ Install Instructions
 --------------------
 
 #### Getting the files
-You can either go to releases, and download the .7z archive, or you may download the entire repo as a zip.
+You can either go to releases, and download the source as a zip or tar.gz, or you may download the entire repo as a zip, or clone it to a folder using git, your choice.
 
 #### Importing the Config Bundle File 
-However you get the files, simply unzip, and go to File > Import > Config Bundle, and import the .ini file that is appropriate for your version of PrusaSlicer.
+However you get the files, simply unzip (if needed), and go to File > Import > Config Bundle, and import the .ini file that is appropriate for your version of PrusaSlicer.
 ![image](https://user-images.githubusercontent.com/46601333/76879051-10fc6100-684c-11ea-925a-884799e7f5a6.png)
 
 
